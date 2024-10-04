@@ -4,7 +4,7 @@ import platform
 import subprocess
 
 # Define the source directory (Downloads folder)
-source_dir = os.path.expanduser("~/Documents")
+source_dir = os.path.expanduser("~/Downloads")
 
 # Define target folders for different file types
 folders = {
